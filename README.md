@@ -1,2 +1,2 @@
-# Minera-oDeTexto
-Nuvem de palavras através de tweets.
+# Twitter x RStudio
+Construindo uma nuvem de palavras de tweets relacionados ao assunto: Feminicídio
