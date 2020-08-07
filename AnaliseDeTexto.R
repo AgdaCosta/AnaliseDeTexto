@@ -40,10 +40,10 @@ require(pkgload)
 #_______________________________________________________________________________
 #-----------------------Fontes de Dados-----------------------------------------
 
-api_key             <- "8gHNR5KCffWlap47GOYIuoqFX"
-api_secret          <- "O84tHPLcD0xPD6OHDN7TzbeaBnzmJNpITeKMVEc6zrE9syGbLi"
-access_token        <- "3472103117-21WackEZ3eYBwecNGDFm1sWL7b5Vrowyref0ed5"
-access_token_secret <- "tIPRE2DWRrEongjww1cCT6I7slJZ3AgY5bIQIoP2AYwQv"
+api_key             <- "XXXXXXXXXXXXXXXXXX"
+api_secret          <- "XXXXXXXXXXXXXXXXXX"
+access_token        <- "XXXXXXXXXXXXXXXXXX"
+access_token_secret <- "XXXXXXXXXXXXXXXXXX"
 
 setup_twitter_oauth(api_key, api_secret, access_token, access_token_secret)
 
